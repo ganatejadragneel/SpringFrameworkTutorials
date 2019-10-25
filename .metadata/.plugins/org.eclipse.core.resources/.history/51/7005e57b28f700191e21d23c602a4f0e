@@ -1,0 +1,12 @@
+package org.gta1.specs;
+
+import org.gta1.interfaces.Engine;
+
+public class V8 implements Engine {
+
+	public String type() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

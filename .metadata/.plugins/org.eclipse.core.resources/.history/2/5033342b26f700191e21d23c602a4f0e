@@ -1,0 +1,30 @@
+package org.gta1.cars;
+
+import org.gta1.interfaces.Car;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+@Component("corola")
+public class Corola implements Car {
+	@Autowired(required = false)
+	Engine engine;
+
+	/*@Autowired(required = false)
+	public void setEngine(Engine engine) {
+		engine.type = "new V8 Engine";
+		this.engine = engine;
+	}*/
+	
+	public Corola(Engine engine) {
+		super();
+		this.engine = engine;
+	}
+
+	public String specs() {
+		
+		String specs = "sedan from toyota with engine type as " + engine.type; 
+		
+		return specs;
+	}	
+
+}

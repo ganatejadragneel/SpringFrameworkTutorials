@@ -1,0 +1,16 @@
+package org.gta1.cars;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Engine {
+	String type = "VB";
+
+	public Engine() {
+		super();
+		this.type = type; 
+	}
+	
+	
+	
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Engine.java&apos; to &apos;Autowire Introduction/src/main/java/org.gta1.interfaces&apos;&#x0D;&#x0A;- Original project: &apos;Autowire Introduction&apos;&#x0D;&#x0A;- Destination element: &apos;Autowire Introduction/src/main/java/org.gta1.interfaces&apos;&#x0D;&#x0A;- Original element: &apos;org.gta1.cars.Engine.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java&lt;org.gta1.interfaces" element1="/src\/main\/java&lt;org.gta1.cars{Engine.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1572008748056" units="1" version="1.0"/>
+</session>

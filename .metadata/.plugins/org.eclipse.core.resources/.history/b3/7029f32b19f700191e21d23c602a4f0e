@@ -1,0 +1,18 @@
+package org.gta1.cars;
+
+public class Engine {
+	String type;
+
+	public Engine() {
+		type = "VB";
+	}
+
+	public String getType() {
+		return type;
+	}
+
+	public void setType(String type) {
+		this.type = type;
+	}
+	
+}

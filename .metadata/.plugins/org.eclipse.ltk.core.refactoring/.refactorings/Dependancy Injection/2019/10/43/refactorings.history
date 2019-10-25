@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Swift.java&apos; to &apos;Dependancy Injection/src/main/java/org.gta1.cars&apos;&#x0D;&#x0A;- Original project: &apos;Dependancy Injection&apos;&#x0D;&#x0A;- Destination element: &apos;Dependancy Injection/src/main/java/org.gta1.cars&apos;&#x0D;&#x0A;- Original element: &apos;org.gta1.interfaces.Swift.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java&lt;org.gta1.cars" element1="/src\/main\/java&lt;org.gta1.interfaces{Swift.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1571990933051" units="1" version="1.0"/>
+</session>

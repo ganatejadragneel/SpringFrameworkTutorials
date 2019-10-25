@@ -1,0 +1,18 @@
+package org.gta1.cars;
+
+import org.gta1.interfaces.Car;
+import org.springframework.stereotype.Component;
+
+@Component("corola")
+public class Corola implements Car {
+	
+	Engine engine;
+
+	public String specs() {
+		
+		String specs = "sedan from toyota" + engine.getType(); 
+		
+		return ;
+	}
+
+}

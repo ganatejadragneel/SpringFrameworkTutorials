@@ -1,0 +1,6 @@
+package org.gta1;
+
+@Configuration
+public class AppConfig {
+
+}

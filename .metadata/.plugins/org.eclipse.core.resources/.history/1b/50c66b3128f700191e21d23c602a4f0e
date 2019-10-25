@@ -1,0 +1,8 @@
+package org.gta1.interfaces;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Engine {
+	String type = "VB";
+}
