@@ -9,5 +9,7 @@ D:\STS\Workspace Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2
 \Dependancy Injection\src\main\java
 D:\STS\Workspace Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2594718672.index
 \Spring5\src\main\resources
+D:\STS\Workspace Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\456643733.index
+\Spring mvc minimal project\src
 D:\STS\Workspace Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3831561686.index
 \Simple Dynamic Web Project\src
