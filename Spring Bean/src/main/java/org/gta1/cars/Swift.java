@@ -1,0 +1,12 @@
+package org.gta1.cars;
+
+import org.gta1.interfaces.Car;
+
+public class Swift implements Car {
+
+	public String specs() {
+		// TODO Auto-generated method stub
+		return "hatchback from suzuki";
+	}
+
+}
